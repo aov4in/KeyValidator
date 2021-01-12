@@ -13,11 +13,11 @@
 <b>Описание процесса тестирования</b>
 В процессе тестирования использовались следующие артефакты*:
 
-* <a href="/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md">Инструкция по установке OpenJDK 11</a>
-* <a href="/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md">Руководство использования</a>
+* <a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md">Инструкция по установке OpenJDK 11</a>
+* <a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md">Руководство использования</a>
 
 
-В качестве тестовых данных использовались данные из "<a href="/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md">Руководство использования</a>":
+В качестве тестовых данных использовались данные из "<a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md">Руководство использования</a>":
 
 Валидные ключи:
 
